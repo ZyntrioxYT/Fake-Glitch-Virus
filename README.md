@@ -3,9 +3,9 @@ THIS DOES NOT DO ANYTHING, JUST A FUN TRICK TO PULL ON YOUR FRIENDS
 
 HOW TO USE: (MAC ONLY) make a new folder in desktop called "dist)
 2. put the glitch demo file in.
-3. put the roblox (the actual thing) in applications or the dist folder
+3. put the roblox.app in applications or the dist folder
 4. you might need to run the following commands in terminal:
-# Install Homebrew (if needed)
+# Install Homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 # Install Git
