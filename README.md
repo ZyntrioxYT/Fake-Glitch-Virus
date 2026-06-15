@@ -36,6 +36,9 @@ python3 glitch_demo.py
 # Install Git
 winget install Git.Git
 
+# Install PyInstaller
+python -m pip install pyinstaller
+
 # Install Python
 winget install Python.Python.3
 
